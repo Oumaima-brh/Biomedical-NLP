@@ -9,7 +9,7 @@ The models are hosted on [Hugging Face](https://huggingface.co/) to facilitate a
 
 | Model | Description | Hugging Face |
 |---|---|---|
-| BiLSTM Classic | A classical BiLSTM model for biomedical named entity recognition. |[View Model]((https://huggingface.co/Oumaimaabrh023/BiLSTM_Classique)) |
+| BiLSTM Classic | A classical BiLSTM model for biomedical named entity recognition. |[View Model](https://huggingface.co/Oumaimaabrh023/BiLSTM_Classique) |
 | BiLSTM-CRF | A BiLSTM model combined with a CRF layer for sequence labeling. | [View Model](YOUR_BILSTM_CRF_LINK) |
 | BioBERT | A biomedical language model fine-tuned for NER. | [View Model](YOUR_BIOBERT_LINK) |
 | ClinicalBERT | A clinical language model fine-tuned for NER. | [View Model](YOUR_CLINICALBERT_LINK) |
