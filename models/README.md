@@ -1,4 +1,3 @@
-
 # Trained Models
 
 This directory provides access to the trained models developed for the Biomedical Named Entity Recognition (NER) project.
@@ -9,11 +8,11 @@ The models are hosted on [Hugging Face](https://huggingface.co/) to facilitate a
 
 | Model | Description | Hugging Face |
 |---|---|---|
-| BiLSTM Classic | A classical BiLSTM model for biomedical named entity recognition. |[View Model](https://huggingface.co/Oumaimaabrh023/BiLSTM_Classique) |
-| BiLSTM-CRF | A BiLSTM model combined with a CRF layer for sequence labeling. | [View Model](YOUR_BILSTM_CRF_LINK) |
-| BioBERT | A biomedical language model fine-tuned for NER. | [View Model](YOUR_BIOBERT_LINK) |
-| ClinicalBERT | A clinical language model fine-tuned for NER. | [View Model](YOUR_CLINICALBERT_LINK) |
-| PubMedBERT | A biomedical language model fine-tuned for NER. | [View Model](YOUR_PUBMEDBERT_LINK) |
+| BiLSTM Classic | A classical BiLSTM model for biomedical named entity recognition. | [View Model](https://huggingface.co/Oumaimabrh023/BiLSTM_Classique) |
+| BiLSTM-CRF | A BiLSTM model combined with a CRF layer for sequence labeling. | [View Model](https://huggingface.co/Oumaimabrh023/bilstm_crf_model) |
+| BioBERT | A biomedical language model fine-tuned for NER. | [View Model](https://huggingface.co/Oumaimabrh023/ner_biobert_model) |
+| ClinicalBERT | A clinical language model fine-tuned for NER. | [View Model](https://huggingface.co/Oumaimabrh023/clinicalbert_model) |
+| PubMedBERT | A biomedical language model fine-tuned for NER. | [View Model](https://huggingface.co/Oumaimabrh023/pubmedbert_ner_model) |
 
 ## Downloading the Models
 
@@ -23,7 +22,7 @@ To download a model, visit its corresponding Hugging Face repository and follow 
 
 The trained models can be used for biomedical named entity recognition and evaluated on biomedical text datasets.
 
-Please refer to the notebooks directory for the training, evaluation, and prediction workflows.
+Please refer to the `notebooks/` directory for the training, evaluation, and prediction workflows.
 
 ## Notes
 
